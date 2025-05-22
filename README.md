@@ -1,6 +1,6 @@
 # clement hugbo  
-**principal product designer | product strategist | data scientist**  
-[📁 view my portfolio](https://codemathics.design/portfolio)  
+**principal product designer | product experience strategist | data scientist**  
+[🎨 view my portfolio](https://codemathics.design/portfolio)  
 [📁 view the project on github](https://github.com/codemathics/portfolio)
 
 ---
