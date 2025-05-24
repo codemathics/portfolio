@@ -9,7 +9,13 @@
 *hult international business school, san francisco*  
 • specialized in ai, python, jupyter, data analysis, futures and design thinking  
 • president, hult onchain and docuseries club  
-• tech intern, hult sf it dept | multiple scholarship awards  
+• tech intern, hult sf it dept | multiple scholarship awards
+
+### bike_rental analysis project
+view on github - [**bike rental analysis**]([https://blockradar.co](https://github.com/codemathics/bike_dataAnalysis))
+
+### dynamic email generator with python
+view on github - [**dynamic email generator**]([https://blockradar.co](https://github.com/codemathics/bike_dataAnalysis))
 
 **bsc, electrical and electronics technology**  
 *specialized in wiring, installation, and maintenance*
