@@ -18,6 +18,7 @@
 **dynamic email generator with python**
 
 - view on github - [**dynamic email generator**](https://github.com/codemathics/dynamic_email_generator)
+
 ---
 
 **bsc, electrical and electronics technology**  
