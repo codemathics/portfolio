@@ -12,10 +12,10 @@
 • tech intern, hult sf it dept | multiple scholarship awards
 
 ### bike_rental analysis project
-view on github - [**bike rental analysis**]([https://blockradar.co](https://github.com/codemathics/bike_dataAnalysis))
+view on github - [**bike rental analysis**](https://github.com/codemathics/bike_dataAnalysis)
 
 ### dynamic email generator with python
-view on github - [**dynamic email generator**]([https://blockradar.co](https://github.com/codemathics/bike_dataAnalysis))
+view on github - [**dynamic email generator**](https://github.com/codemathics/bike_dataAnalysis)
 
 **bsc, electrical and electronics technology**  
 *specialized in wiring, installation, and maintenance*
